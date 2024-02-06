@@ -1,7 +1,7 @@
 ![MasterHead](https://a.imagem.app/bpVJpT.png)
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A frontend Developer from Brazil</h3><br>
-<img align="right" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" width="400" src="https://cdn.discordapp.com/attachments/839953822331437097/1204488043843686471/Design_sem_nome_9.png?ex=65d4e9e7&is=65c274e7&hm=77133a6b6635bcedf61e7ec48d23dfe02bfec31a46182d3c4ae2ef1d4d889a4d&">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielbarrachino&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielbarrachino" /> </p>
 
